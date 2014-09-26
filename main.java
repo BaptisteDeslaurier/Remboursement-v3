@@ -4,6 +4,13 @@ import java.util.List;
 import java.util.Scanner;
 import rembv2.Calcul;
 
+/**
+ * main est le programme principal qui va permettre la création des liste pour aller retour et aller simple, la saisie de l'utilisateur et le calcul du remboursement.
+ *
+ * @author BaptisteDeslaurier
+ * @version 1.0
+ */
+
 public class main {
 
 	public static void main(String[] args) {

@@ -1,7 +1,21 @@
 package rembv2;
 import java.util.List;
 
+/**
+ * Calcul est la classe comprenant le calcul du remboursement.
+ *
+ * @author BaptisteDeslaurier
+ * @version 1.0
+ */
+
 public class Calcul {
+
+	/**
+     * Retourne le montant du remboursement.
+     *
+     * @return un décimal montantRemb, qui correspond au montant du remboursement.
+     */
+
 	public static double calculer(int i, List<AR> maListeAR, List<AS> maListeAS , Saisie maSaisie)
 	{
 		double montantRemb = 0;

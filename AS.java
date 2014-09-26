@@ -1,5 +1,12 @@
 package rembv2;
 
+/**
+ * AS est la classe comprenant toutes les données pour un aller simple.
+ *
+ * @author BaptisteDeslaurier
+ * @version 1.0
+ */
+
 public class AS extends Tarif{
 
 	private double tarifASJS;

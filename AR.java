@@ -1,5 +1,12 @@
 package rembv2;
 
+/**
+ * AR est la classe comprenant toutes les données pour un aller retour.
+ *
+ * @author BaptisteDeslaurier
+ * @version 1.0
+ */
+
 public class AR extends Tarif{
 
 	private double tarifARJS;
